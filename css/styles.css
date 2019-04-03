@@ -1,0 +1,14 @@
+body {
+    background-color: aqua
+}
+
+nav a {
+    color: red;
+}
+footer a {
+    color: darkorchid;
+}
+
+a {
+    color: darkgreen;
+}
